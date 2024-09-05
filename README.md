@@ -45,9 +45,7 @@ We evaluated three different models:
 
 - Achieved ~84% precision, recall, and F1-score for both positive and negative sentiments
 
-```
-[Placeholder for Random Forest Confusion Matrix]
-```
+![download](https://github.com/user-attachments/assets/8cd99139-4804-4a86-9ff3-65ec864b4d7e)
 
 **How it works:** Random Forest is an ensemble learning method that constructs multiple decision trees during training and outputs the class that is the mode of the classes of individual trees. It uses:
 - Bootstrap aggregating (bagging) to sample data points with replacement
@@ -58,9 +56,7 @@ We evaluated three different models:
 
 - Performed less effectively with ~65% precision, recall, and F1-score
 
-```
-[Placeholder for KNN Confusion Matrix]
-```
+![download](https://github.com/user-attachments/assets/f0e7e391-0ea2-4e03-938b-ac73189a8679)
 
 **How it works:** KNN is a non-parametric method used for classification and regression. For classification:
 - It finds the K nearest neighbors to a given data point based on a distance metric (e.g., Euclidean distance)
@@ -71,9 +67,7 @@ We evaluated three different models:
 
 - Matched the performance of Random Forest with ~84% precision, recall, and F1-score
 
-```
-[Placeholder for Multinomial Naive Bayes Confusion Matrix]
-```
+![download](https://github.com/user-attachments/assets/69cc356c-77d5-47d9-8bd9-61d794e22a0e)
 
 **How it works:** Multinomial Naive Bayes is a probabilistic learning method particularly suited for text classification. It:
 - Assumes features (words in our case) are generated from a simple multinomial distribution
