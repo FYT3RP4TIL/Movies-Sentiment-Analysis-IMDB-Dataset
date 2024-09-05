@@ -56,7 +56,7 @@ We evaluated three different models:
 
 - Performed less effectively with ~65% precision, recall, and F1-score
 
-![download](https://github.com/user-attachments/assets/f0e7e391-0ea2-4e03-938b-ac73189a8679)
+![image](https://github.com/user-attachments/assets/f27e4254-1429-412b-a8b7-06395c8e1e0b)
 
 **How it works:** KNN is a non-parametric method used for classification and regression. For classification:
 - It finds the K nearest neighbors to a given data point based on a distance metric (e.g., Euclidean distance)
